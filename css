@@ -1,0 +1,18 @@
+@media (min-width: 950px) and (max-width: 1199px){
+.col-md-4
+{
+ float: left;
+ border: 1px solid grey;
+ }
+ 
+ 
+ @media (min-width: 768px) and (max-width: 991px){
+ .col-md-4{
+  float: left;
+  border: 1px solid grey;
+  }
+   @media (min-width: 767px){
+ .col-md-4{
+  float: left;
+  border: 1px solid grey;
+  }
